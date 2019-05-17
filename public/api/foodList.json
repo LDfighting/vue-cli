@@ -1,0 +1,370 @@
+[
+    {
+        "type": "热销",
+        "foodTotal": [
+            { 
+                "name": "三丝炒米粉", 
+                "price": 16.8, 
+                "description": "美味可口 主要原料：猪瘦肉",
+                "src": "/img/1.jpg",
+                "sellMount": 144,
+                "rating": 92,
+                "count": 0
+            },
+            { 
+                "name": "茶叶蛋", 
+                "price": 3.8, 
+                "description": "清香扑鼻 主要原料：鸡蛋",
+                "src": "/img/2.jpg",
+                "sellMount": 127,
+                "rating": 95,
+                "count": 0
+            },
+            { 
+                "name": "白粥", 
+                "price": 3.8, 
+                "description": "文火熬制几个小时",
+                "src": "/img/baizhou.jpg",
+                "sellMount": 103,
+                "rating": 100,
+                "count": 0
+            },
+            { 
+                "name": "鸡蛋煎饺", 
+                "price": 15.8, 
+                "description": "纯手工制作 主要原料：鸡蛋",
+                "src": "/img/jidanjian.jpg",
+                "sellMount": 98,
+                "rating": 100,
+                "count": 0
+            },
+            { 
+                "name": "西红柿鸡蛋面", 
+                "price": 15.8, 
+                "description": "美味可口",
+                "src": "/img/xihongshi.jpg",
+                "sellMount": 44,
+                "rating": 100,
+                "count": 0
+            }
+        ]
+    },
+    {
+        "type": "招牌菜",
+        "foodTotal": [
+            { 
+                "name": "鲜肉小笼包", 
+                "price": 8.8, 
+                "description": "纯手工制作，老面发酵",
+                "src": "/img/3.jpg",
+                "sellMount": 584,
+                "rating": 91,
+                "count": 0
+            },
+            { 
+                "name": "鲜肉灌汤包", 
+                "price": 9.9, 
+                "description": "纯手工制作，美味鲜馅制",
+                "src": "/img/guantangbao.jpg",
+                "sellMount": 321,
+                "rating": 88,
+                "count": 0
+            },
+            { 
+                "name": "玉米蒸饺", 
+                "price": 8.8, 
+                "description": "纯手工制作",
+                "src": "/img/yumijiao.jpg",
+                "sellMount": 240,
+                "rating": 86,
+                "count": 0
+            }
+        ]
+    },
+    {
+        "type": "特色小吃",
+        "foodTotal": [
+            { 
+                "name": "鲜肉小笼包", 
+                "price": 8.8, 
+                "description": "纯手工制作，老面发酵",
+                "src": "/img/3.jpg",
+                "sellMount": 584,
+                "rating": 91,
+                "count": 0
+            },
+            { 
+                "name": "鲜肉灌汤包", 
+                "price": 9.9, 
+                "description": "纯手工制作，美味鲜馅制",
+                "src": "/img/guantangbao.jpg",
+                "sellMount": 321,
+                "rating": 88,
+                "count": 0
+            },
+            { 
+                "name": "鸡蛋煎饺", 
+                "price": 15.8, 
+                "description": "纯手工制作 主要原料：鸡蛋",
+                "src": "/img/jidanjian.jpg",
+                "sellMount": 98,
+                "rating": 100,
+                "count": 0
+            },
+            { 
+                "name": "鲜肉蒸饺", 
+                "price": 3.8, 
+                "description": "纯手工制作",
+                "src": "/img/4.jpg",
+                "sellMount": 151,
+                "rating": 86,
+                "count": 0
+            },
+            { 
+                "name": "玉米蒸饺", 
+                "price": 8.8, 
+                "description": "纯手工制作",
+                "src": "/img/yumijiao.jpg",
+                "sellMount": 240,
+                "rating": 86,
+                "count": 0
+            },
+            { 
+                "name": "茶叶蛋", 
+                "price": 3.8, 
+                "description": "清香扑鼻 主要原料：鸡蛋",
+                "src": "/img/2.jpg",
+                "sellMount": 127,
+                "rating": 95,
+                "count": 0
+            }
+        ]
+    },
+    {
+        "type": "粥类",
+        "foodTotal": [
+            { 
+                "name": "白粥", 
+                "price": 3.8, 
+                "description": "文火熬制几个小时",
+                "src": "/img/baizhou.jpg",
+                "sellMount": 103,
+                "rating": 100,
+                "count": 0
+            },
+            { 
+                "name": "青菜瘦肉粥", 
+                "price": 15.8, 
+                "description": "美味可口 主要原料：大米",
+                "src": "/img/10.jpg",
+                "sellMount": 26,
+                "rating": 100,
+                "count": 0
+            },
+            { 
+                "name": "香菇瘦肉粥", 
+                "price": 15.8, 
+                "description": "美味可口 主要原料：大米",
+                "src": "/img/11.jpg",
+                "sellMount": 25,
+                "rating": 100,
+                "count": 0
+            },
+            { 
+                "name": "皮蛋瘦肉粥", 
+                "price": 15.8, 
+                "description": "美味可口 主要原料：大米",
+                "src": "/img/12.jpg",
+                "sellMount": 103,
+                "rating": 100,
+                "count": 0
+            },
+            { 
+                "name": "咸蛋瘦肉粥", 
+                "price": 15.8, 
+                "description": "美味可口 主要原料：大米",
+                "src": "/img/13.jpg",
+                "sellMount": 22,
+                "rating": 100,
+                "count": 0
+            },
+            { 
+                "name": "猪肝瘦肉粥", 
+                "price": 15.8, 
+                "description": "美味可口 主要原料：大米",
+                "src": "/img/14.jpg",
+                "sellMount": 30,
+                "rating": 100,
+                "count": 0
+            }
+        ]
+    },
+    {
+        "type": "汤面类",
+        "foodTotal": [
+            { 
+                "name": "三丝炒米粉", 
+                "price": 16.8, 
+                "description": "美味可口 主要原料：猪瘦肉",
+                "src": "/img/1.jpg",
+                "sellMount": 144,
+                "rating": 92,
+                "count": 0
+            },
+            { 
+                "name": "红烧牛肉面", 
+                "price": 20.8, 
+                "description": "滑嫩爽口 主要面料：牛肉",
+                "src": "/img/20.jpg",
+                "sellMount": 24,
+                "rating": 89,
+                "count": 0
+            },
+            { 
+                "name": "葱油拌面", 
+                "price": 13.8, 
+                "description": "美味可口",
+                "src": "/img/21.jpg",
+                "sellMount": 71,
+                "rating": 99,
+                "count": 0
+            },
+            { 
+                "name": "麻辣小面", 
+                "price": 15.8, 
+                "description": "美味可口",
+                "src": "/img/22.jpg",
+                "sellMount": 15,
+                "rating": 89,
+                "count": 0
+            },
+            { 
+                "name": "炸酱面", 
+                "price": 15.8, 
+                "description": "美味可口",
+                "src": "/img/23.jpg",
+                "sellMount": 22,
+                "rating": 87,
+                "count": 0
+            },
+            { 
+                "name": "香菇肉丝面", 
+                "price": 15.8, 
+                "description": "美味可口",
+                "src": "/img/24.jpg",
+                "sellMount": 90,
+                "rating": 99,
+                "count": 0
+            },
+            { 
+                "name": "西红柿鸡蛋面", 
+                "price": 15.8, 
+                "description": "美味可口",
+                "src": "/img/xihongshi.jpg",
+                "sellMount": 44,
+                "rating": 100,
+                "count": 0
+            }
+        ]
+    },
+    {
+        "type": "汤河粉类",
+        "foodTotal": [
+            { 
+                "name": "白鸽汤河粉", 
+                "price": 20.8, 
+                "description": "主要原料：大米",
+                "src": "/img/30.jpg",
+                "sellMount": 24,
+                "rating": 89,
+                "count": 0
+            },
+            { 
+                "name": "猪肚汤河粉", 
+                "price": 18.8, 
+                "description": "主要原料：大米",
+                "src": "/img/31.jpg",
+                "sellMount": 71,
+                "rating": 99,
+                "count": 0
+            },
+            { 
+                "name": "老鸭汤河粉", 
+                "price": 18.8, 
+                "description": "主要原料：大米",
+                "src": "/img/32.jpg",
+                "sellMount": 15,
+                "rating": 89,
+                "count": 0
+            },
+            { 
+                "name": "乌鸡汤河粉", 
+                "price": 18.8, 
+                "description": "主要原料：大米",
+                "src": "/img/33.jpg",
+                "sellMount": 22,
+                "rating": 87,
+                "count": 0
+            }
+        ]
+    },
+    {
+        "type": "炒饭类",
+        "foodTotal": [
+            { 
+                "name": "榨菜肉丝炒饭", 
+                "price": 18.8, 
+                "description": "主要原料：大米",
+                "src": "/img/40.jpg",
+                "sellMount": 24,
+                "rating": 89,
+                "count": 0
+            },
+            { 
+                "name": "香菇肉丝炒饭", 
+                "price": 16.8, 
+                "description": "主要原料：大米",
+                "src": "/img/41.jpg",
+                "sellMount": 71,
+                "rating": 99,
+                "count": 0
+            },
+            { 
+                "name": "酸菜炒饭", 
+                "price": 16.8, 
+                "description": "美味可口",
+                "src": "/img/42.jpg",
+                "sellMount": 15,
+                "rating": 89,
+                "count": 0
+            },
+            { 
+                "name": "蛋炒饭", 
+                "price": 15.8, 
+                "description": "美味可口",
+                "src": "/img/23.jpg",
+                "sellMount": 22,
+                "rating": 87,
+                "count": 0
+            },
+            { 
+                "name": "肉丝炒饭", 
+                "price": 18.8, 
+                "description": "美味可口",
+                "src": "/img/44.jpg",
+                "sellMount": 90,
+                "rating": 99,
+                "count": 0
+            },
+            { 
+                "name": "扬州炒饭", 
+                "price": 18.8, 
+                "description": "美味可口",
+                "src": "/img/45.jpg",
+                "sellMount": 44,
+                "rating": 100,
+                "count": 0
+            }
+        ]
+    }
+]
